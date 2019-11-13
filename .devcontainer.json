@@ -1,5 +1,6 @@
 {
-    "name": "VS Online Quickstart Sample",
+    "name": "VS Online Sharespace Container",
+    "appPort": [4321, 5432],
     "extensions": [
         "dbaeumer.vscode-eslint"
     ]
